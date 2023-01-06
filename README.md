@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science and Engineering From UCER.
-- 💼 &nbsp; Working as a Backend Developer at Atechnos.
+- 💼 &nbsp; Working as a Backend Developer at Hero MotoCorp.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
